@@ -3,15 +3,15 @@ const chalk = require('chalk');
 
 
 // Other
-global.link = 'https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S'
-global.linkGroup = 'https://chat.whatsapp.com/E3PWxdvLc7ZCp1ExOCkEGp'
+global.link = 'Waqas😫👀'
+global.linkGroup = 'Waqas😈'
 
 global.apikey = 'bf2d2cf29b3edc604b447983';
-global.ownername = "𝑆𝛪𝐷 𝐵𝛨𝛥𝛪";
-global.owner = ['917050906659'];
-global.premium = ['917050906659'];
-global.packname = "𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢";
-global.author = "𝐆𝐒𝐒 𝚩𝚯𝚻𝐖𝚫";
+global.ownername = "Waqas😈";
+global.owner = ['923467000616'];
+global.premium = ['923467000616'];
+global.packname = "Shticker By";
+global.author = "Waqas😈";
 global.sessionName = 'session';
 global.prefa = [".", "!", "/", "?"];
 global.typemenu = "v1"
@@ -29,16 +29,16 @@ global.autoBlock = true
  
 /*REPLY MESSAGE*/
 global.mess = {
-    banned: '`You are *Banned* fron using commands!`',
+    banned: '`You are *Gandu* that's why you can't use this bot commands!`',
     bangc: '`This Group is *Banned* from using Commands!`',
     success: '`✓ Success`',
     admin: '`This feature is only for group admins`',
-    botAdmin: '`I am not an admin!`',
-    owner: '`You are not my owner`',
+    botAdmin: '`Dalle me admin nhi hoon😒`',
+    owner: '`Gandu tu kon hai? Mera Owner kahan gaya👀`',
     group: '`You can use this command only in groups ❌`',
     private: '`Feature is used only for private chats!`',
     bot: '`Bot number user special features`',
-    wait: '*Processing Your request*',
+    wait: '*Dalle Request Processesing me hai Wait kr*',
     endLimit: '`Your daily limit has expired, the limit will be reset every 12 hours`',
 };
 
